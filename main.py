@@ -8,9 +8,13 @@ with col1:
 
 with col2:
     st.title("Somesh Basak")
-    content = """
+    content1 = """
     Hi, I am Somesh Basak, I am a Full Stack Developer Traiee at Nxtwave. 
     My skills are Html, CSS, JS, Figma, Bootstrap, Tailwind, Javascript, 
     React JS, Node JS, MySql, Sqlite, Github,
     """
-    st.info(content)
+    st.info(content1)
+
+content2 = """
+Below you can find some of the apps i built in Python. Feel free to me!."""
+st.write(content2)
